@@ -17,7 +17,7 @@ Each folder corresponds to a core Security+ Domain:
 - **Malware Signature Matcher (Python):** A script that simulates antivirus detection by matching file hashes against a known malicious database.
 - **Log Scraper:** Extracts suspicious IP addresses from server logs to identify brute-force attempts.
 
-### [Domain 3: Architecture and Design](./Domain3)
+### [Domain 3: Architecture and Design](./Domain3.0-Security-Architecture)
 - **Security Header Checker (Node.js):** An automated tool to verify if web applications are using HSTS, X-Frame-Options, and CSP headers.
 - **Hashing Utility:** Implements SHA-256 and MD5 hashing for data integrity verification.
 
