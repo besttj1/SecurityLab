@@ -13,7 +13,7 @@ This repository serves as a technical portfolio for my CompTIA Security+ certifi
 ## 📁 Repository Structure
 Each folder corresponds to a core Security+ Domain:
 
-### [Domain 1: Threats, Attacks, and Vulnerabilities](./Domain1)
+### [Domain 1.0: Threats, Attacks, and Vulnerabilities](./Domain1.0)
 - **Malware Signature Matcher (Python):** A script that simulates antivirus detection by matching file hashes against a known malicious database.
 - **Log Scraper:** Extracts suspicious IP addresses from server logs to identify brute-force attempts.
 
